@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects to self learning<br>🌱 I’m currently learning Java<br>💬 Looking foward to build an AI<br>⚡ My Java x MySql project was the most dificult to do and the best (Trabalho-Finalizado)
+🔭 I’m currently working on projects to self learning<br>🌱 I’m currently learning HTML-CSS<br>💬 Looking foward to build an AI<br>⚡ My Java x MySql project was the most dificult to do and the best (Trabalho-Finalizado)
 
 
 # 💻 Tech Stack:
